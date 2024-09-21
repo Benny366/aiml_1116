@@ -1,4 +1,6 @@
 # aiml_1116
+lab 07 https://github.com/Benny366/aiml_1116/blob/main/Untitled7.ipynb 
+
 lab 06 https://github.com/Benny366/aiml_1116/blob/main/lab_06.ipynb
 
 lab05 https://github.com/Benny366/aiml_1116/blob/main/lab_5_.ipynb
